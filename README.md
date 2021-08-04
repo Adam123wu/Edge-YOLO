@@ -1,7 +1,6 @@
-# Yolo v4, v3 and v2 for Windows and Linux
 # We have proposed Edge YOLO algorithm and compare this algorithm with other object detection network
 For this purpose, we provide the Edge YOLO algorithm in the COCO and KITTI data sets related files, including modified network and structure and weight files.
-
+We also provide a Tensorrt version suitable for edge reasoning
 ## Other object detection network link address
 
 Paper YOLO v4: https://arxiv.org/abs/2004.10934
